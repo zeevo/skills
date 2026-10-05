@@ -37,7 +37,7 @@ Do all testing in `$WT`. Never touch the user's working tree.
 
 List open issues, oldest first. Skip, without comment:
 - feature requests, questions, discussions, tracking issues, anything that isn't a defect report
-- issues with activity in the last 14 days
+- issues with activity in the last 24 hours
 - issues with an open PR/MR linked to them
 - issues labelled or described as won't-fix, blocked, upstream, or keep-open
 
